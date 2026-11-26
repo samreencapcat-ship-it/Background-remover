@@ -1,0 +1,6 @@
+{
+  "name": "Pic Background Remover AI",
+  "description": "Remove image backgrounds automatically in one click with real AI segmentation. Supports JPG, JPEG, PNG, and WEBP with transparent PNG export and custom background colors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
